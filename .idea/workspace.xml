@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="MyClass01에 name 필드 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="MyClass01에 address 필드 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C04array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06class/C04array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -56,9 +61,48 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C01class">
+  <component name="RunManager" selected="Application.C04array">
     <configuration name="C01class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch06class.C01class" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02Class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06class.C02Class" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06class.C03class" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06class.C04array" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
@@ -85,6 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04array" />
+        <item itemvalue="Application.C03class" />
+        <item itemvalue="Application.C02Class" />
         <item itemvalue="Application.C01class" />
         <item itemvalue="Application.C11method" />
       </list>
@@ -100,7 +147,7 @@
       <updated>1693199812879</updated>
       <workItem from="1693199818137" duration="241000" />
       <workItem from="1693200075767" duration="83000" />
-      <workItem from="1693200169838" duration="6275000" />
+      <workItem from="1693200169838" duration="8134000" />
     </task>
     <task id="LOCAL-00001" summary="객체와 클래스">
       <option name="closed" value="true" />
@@ -134,15 +181,35 @@
       <option name="project" value="LOCAL" />
       <updated>1693205928984</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MyClass01에 address 필드 추가">
+      <option name="closed" value="true" />
+      <created>1693206841220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693206841220</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="객체와 클래스" />
     <MESSAGE value="MyClass01에 name 필드 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyClass01에 name 필드 추가" />
+    <MESSAGE value="MyClass01에 address 필드 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyClass01에 address 필드 추가" />
   </component>
 </project>
