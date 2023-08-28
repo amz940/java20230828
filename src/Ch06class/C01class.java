@@ -24,6 +24,7 @@ class MyClass01{
     // instance fields
     // 인스턴스가 가져야 하는 속성들
     int age;
+    String name;
 
     // instance method
     // 인스턴스가 가져야 하는 기능들
