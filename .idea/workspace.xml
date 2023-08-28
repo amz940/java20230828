@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="MyClass01에 address 필드 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch06class/C04array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06class/C04array.java" afterDir="false" />
-    </list>
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="MyClass01에 address 필드 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +144,7 @@
       <updated>1693199812879</updated>
       <workItem from="1693199818137" duration="241000" />
       <workItem from="1693200075767" duration="83000" />
-      <workItem from="1693200169838" duration="8134000" />
+      <workItem from="1693200169838" duration="8443000" />
     </task>
     <task id="LOCAL-00001" summary="객체와 클래스">
       <option name="closed" value="true" />
@@ -189,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693206841220</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MyClass01에 address 필드 추가">
+      <option name="closed" value="true" />
+      <created>1693208780650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693208780650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
