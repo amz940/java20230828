@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="MyClass01에 address 필드 추가" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="MyClass02, 03 , 04 추가" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +144,7 @@
       <updated>1693199812879</updated>
       <workItem from="1693199818137" duration="241000" />
       <workItem from="1693200075767" duration="83000" />
-      <workItem from="1693200169838" duration="8443000" />
+      <workItem from="1693200169838" duration="8764000" />
     </task>
     <task id="LOCAL-00001" summary="객체와 클래스">
       <option name="closed" value="true" />
@@ -194,7 +194,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693208780650</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="MyClass01에 address 필드 추가">
+      <option name="closed" value="true" />
+      <created>1693209010777</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693209010777</updated>
+    </task>
+    <task id="LOCAL-00008" summary="MyClass02, 03 , 04 추가">
+      <option name="closed" value="true" />
+      <created>1693209091301</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693209091301</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +231,7 @@
     <MESSAGE value="객체와 클래스" />
     <MESSAGE value="MyClass01에 name 필드 추가" />
     <MESSAGE value="MyClass01에 address 필드 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyClass01에 address 필드 추가" />
+    <MESSAGE value="MyClass02, 03 , 04 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyClass02, 03 , 04 추가" />
   </component>
 </project>
