@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C02reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C02reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C03reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C03reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C04array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C04array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C05array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C05array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C06matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C06matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C07reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C07reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C08array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C08array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C09method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C09method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C10method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C10method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Refrerence/C11method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C11method.java" afterDir="false" />
-    </list>
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="객체와 클래스" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,11 +97,24 @@
       <updated>1693199812879</updated>
       <workItem from="1693199818137" duration="241000" />
       <workItem from="1693200075767" duration="83000" />
-      <workItem from="1693200169838" duration="3915000" />
+      <workItem from="1693200169838" duration="4270000" />
     </task>
+    <task id="LOCAL-00001" summary="객체와 클래스">
+      <option name="closed" value="true" />
+      <created>1693204595164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693204595164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="객체와 클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="객체와 클래스" />
   </component>
 </project>
