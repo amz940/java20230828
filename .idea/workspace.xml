@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C02reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C02reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C03reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C03reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C04array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C04array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C05array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C05array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C06matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C06matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C07reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C07reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C08array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C08array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C09method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C09method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C10method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C10method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Refrerence/C11method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch05refrerence/C11method.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2UbEJ8nn3JMIpo2Qe1Q6fxuDYIE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/java20230828",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.C11method">
+    <configuration name="C01class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06class.C01class" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C11method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch05refrerence.C11method" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch05refrerence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C11method" />
+        <item itemvalue="Application.C01class" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="" />
+      <created>1693199812879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693199812879</updated>
+      <workItem from="1693199818137" duration="241000" />
+      <workItem from="1693200075767" duration="83000" />
+      <workItem from="1693200169838" duration="3915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
