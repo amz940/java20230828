@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="MyClass02, 03 , 04 추가" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="git / src/ 제거">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "amz940"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="db9aee29-80c6-46e6-a55a-04d2ed8bb327" />
+        <option name="url" value="https://github.com/amz940/java20230828.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
@@ -144,7 +160,7 @@
       <updated>1693199812879</updated>
       <workItem from="1693199818137" duration="241000" />
       <workItem from="1693200075767" duration="83000" />
-      <workItem from="1693200169838" duration="8764000" />
+      <workItem from="1693200169838" duration="9149000" />
     </task>
     <task id="LOCAL-00001" summary="객체와 클래스">
       <option name="closed" value="true" />
@@ -210,7 +226,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693209091301</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="git / src/ 추가">
+      <option name="closed" value="true" />
+      <created>1693209240924</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693209240924</updated>
+    </task>
+    <task id="LOCAL-00010" summary="git / src/ 제거">
+      <option name="closed" value="true" />
+      <created>1693209293012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693209293012</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +264,8 @@
     <MESSAGE value="MyClass01에 name 필드 추가" />
     <MESSAGE value="MyClass01에 address 필드 추가" />
     <MESSAGE value="MyClass02, 03 , 04 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="MyClass02, 03 , 04 추가" />
+    <MESSAGE value="git / src/ 추가" />
+    <MESSAGE value="git / src/ 제거" />
+    <option name="LAST_COMMIT_MESSAGE" value="git / src/ 제거" />
   </component>
 </project>
