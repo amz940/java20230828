@@ -21,8 +21,8 @@ public class C06matrix {
 		b[2] = new int[] {111,222,333};
 		System.out.println(b[2][2]);
 		System.out.println(a[2][2]);
-		
-		b = new int[][]	{ {2,2,3}, {10,20,30} , {100, 200, 300} };
+		// b에 새로운 인스턴스 값을 부여함 = 새로운 주소값이 생성
+		b = new int[][]	{ {33, 44}	, {22, 11}};
 		System.out.println(b[0][0]);
 		System.out.println(a[0][0]);
 		
