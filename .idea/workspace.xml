@@ -4,8 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="static 개념 설명">
-      <change beforePath="$PROJECT_DIR$/src/Ch06class/C09static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06class/C09static.java" afterDir="false" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="private, public 쓰는경우">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C02reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C02reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C03reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C03reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C04array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C04array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C05array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C05array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C06matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C06matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C07reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C07reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C08array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C08array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C09method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C09method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C10method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C10method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C11method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C11method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch05refrerence/C12instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/C12instance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C01class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C01class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C02Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C02Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C03class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C03class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C04array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C04array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C05class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C05class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C06string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C06string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C07method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C07method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C08static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C08static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C09static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch06class/C09static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08extends/lecture/C03extends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08extends/lecture/C03extends.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +95,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C09static">
-    <configuration name="C05class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06class.C05class" />
+  <component name="RunManager" selected="Application.C03extends">
+    <configuration name="C01extends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08extends.lecture.C01extends" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06class.*" />
+          <option name="PATTERN" value="ch08extends.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06class.C06string" />
+    <configuration name="C02extends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08extends.lecture.C02extends" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06class.*" />
+          <option name="PATTERN" value="ch08extends.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06class.C07method" />
+    <configuration name="C03extends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08extends.lecture.C03extends" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06class.*" />
+          <option name="PATTERN" value="ch08extends.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +136,11 @@
       </method>
     </configuration>
     <configuration name="C08static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06class.C08static" />
+      <option name="MAIN_CLASS_NAME" value="ch06class.C08static" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06class.*" />
+          <option name="PATTERN" value="ch06class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="C09static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06class.C09static" />
+      <option name="MAIN_CLASS_NAME" value="ch06class.C09static" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch06class.*" />
+          <option name="PATTERN" value="ch06class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03extends" />
+        <item itemvalue="Application.C02extends" />
+        <item itemvalue="Application.C01extends" />
         <item itemvalue="Application.C09static" />
         <item itemvalue="Application.C08static" />
-        <item itemvalue="Application.C07method" />
-        <item itemvalue="Application.C06string" />
-        <item itemvalue="Application.C05class" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +183,7 @@
       <workItem from="1693200075767" duration="83000" />
       <workItem from="1693200169838" duration="10389000" />
       <workItem from="1693266403606" duration="1456000" />
-      <workItem from="1693267986599" duration="4068000" />
+      <workItem from="1693267986599" duration="7049000" />
     </task>
     <task id="LOCAL-00001" summary="객체와 클래스">
       <option name="closed" value="true" />
@@ -268,7 +289,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693272257279</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="static 개념 설명">
+      <option name="closed" value="true" />
+      <created>1693272465403</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693272465403</updated>
+    </task>
+    <task id="LOCAL-00015" summary="private, public 쓰는경우">
+      <option name="closed" value="true" />
+      <created>1693273448140</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693273448140</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +330,7 @@
     <MESSAGE value="git / src/ 추가" />
     <MESSAGE value="git / src/ 제거" />
     <MESSAGE value="static 개념 설명" />
-    <option name="LAST_COMMIT_MESSAGE" value="static 개념 설명" />
+    <MESSAGE value="private, public 쓰는경우" />
+    <option name="LAST_COMMIT_MESSAGE" value="private, public 쓰는경우" />
   </component>
 </project>

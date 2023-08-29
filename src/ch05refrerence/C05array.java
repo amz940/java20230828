@@ -1,4 +1,4 @@
-package Ch05refrerence;
+package ch05refrerence;
 
 public class C05array {
 
