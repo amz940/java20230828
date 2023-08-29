@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="git / src/ 제거">
-      <change beforePath="$PROJECT_DIR$/src/Ch06class/C08static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06class/C08static.java" afterDir="false" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="static 개념 설명">
+      <change beforePath="$PROJECT_DIR$/src/Ch06class/C09static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch06class/C09static.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +74,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C08static">
-    <configuration name="C04array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch06class.C04array" />
-      <module name="java20230828" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch06class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C09static">
     <configuration name="C05class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch06class.C05class" />
       <module name="java20230828" />
@@ -140,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C09static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch06class.C09static" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch06class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C09static" />
         <item itemvalue="Application.C08static" />
         <item itemvalue="Application.C07method" />
         <item itemvalue="Application.C06string" />
         <item itemvalue="Application.C05class" />
-        <item itemvalue="Application.C04array" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,7 @@
       <workItem from="1693200075767" duration="83000" />
       <workItem from="1693200169838" duration="10389000" />
       <workItem from="1693266403606" duration="1456000" />
-      <workItem from="1693267986599" duration="3350000" />
+      <workItem from="1693267986599" duration="4068000" />
     </task>
     <task id="LOCAL-00001" summary="객체와 클래스">
       <option name="closed" value="true" />
@@ -260,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693270340249</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="static 개념 설명">
+      <option name="closed" value="true" />
+      <created>1693272257279</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693272257279</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +292,7 @@
     <MESSAGE value="MyClass02, 03 , 04 추가" />
     <MESSAGE value="git / src/ 추가" />
     <MESSAGE value="git / src/ 제거" />
-    <option name="LAST_COMMIT_MESSAGE" value="git / src/ 제거" />
+    <MESSAGE value="static 개념 설명" />
+    <option name="LAST_COMMIT_MESSAGE" value="static 개념 설명" />
   </component>
 </project>
