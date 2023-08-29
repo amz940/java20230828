@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="다형성 예제 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C02reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C02reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C03reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C03reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C04array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C04array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C05array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C05array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C06matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C06matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C07reference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C07reference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C08array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C08array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C09method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C09method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C10method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C10method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C11method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C11method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/C12instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/lecture/C12instance.java" afterDir="false" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="기본형과 참조형의 차이 예제">
+      <change beforePath="$PROJECT_DIR$/src/ch05refrerence/exam/Refenence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05refrerence/exam/Refenence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +162,7 @@
       <workItem from="1693200075767" duration="83000" />
       <workItem from="1693200169838" duration="10389000" />
       <workItem from="1693266403606" duration="1456000" />
-      <workItem from="1693267986599" duration="26488000" />
+      <workItem from="1693267986599" duration="26813000" />
     </task>
     <task id="LOCAL-00001" summary="객체와 클래스">
       <option name="closed" value="true" />
@@ -415,7 +404,23 @@
       <option name="project" value="LOCAL" />
       <updated>1693295514045</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="예제와 학습내용 분리">
+      <option name="closed" value="true" />
+      <created>1693305741340</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1693305741340</updated>
+    </task>
+    <task id="LOCAL-00032" summary="기본형과 참조형의 차이 예제">
+      <option name="closed" value="true" />
+      <created>1693305766316</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1693305766316</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,6 +459,8 @@
     <MESSAGE value="다형성 이란?" />
     <MESSAGE value="강제 형변환" />
     <MESSAGE value="다형성 예제 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="다형성 예제 3" />
+    <MESSAGE value="예제와 학습내용 분리" />
+    <MESSAGE value="기본형과 참조형의 차이 예제" />
+    <option name="LAST_COMMIT_MESSAGE" value="기본형과 참조형의 차이 예제" />
   </component>
 </project>

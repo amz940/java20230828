@@ -16,6 +16,7 @@ public class Refenence {
         System.out.println("main() x의 값 : " + a.x);
         System.out.println("main()의 주소값 : "+ System.identityHashCode(a));
         //참조형
+        System.out.println("--------------------------------");
         System.out.println("main() x의 값 : " + d.x);
         System.out.println("main()의 주소값 : "+ System.identityHashCode(d));
 
