@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment=".">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="리턴문 인터페이스">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08interface/book/sec10/PromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08interface/book/sec10/exam1/PromotionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08interface/book/sec12/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08interface/book/sec12/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08interface/book/sec12/InstanceofExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08interface/book/sec12/InstanceofExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08interface/book/sec12/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08interface/book/sec12/Taxi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch08interface/book/sec12/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch08interface/book/sec12/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -74,13 +80,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Activity">
-    <configuration name="Activity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08extends.book.sec07.exam14.Activity" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ch08interface.exercise.p07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InstanceofExample">
+    <configuration name="C07return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08interface.lecture.C07return" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08extends.book.sec07.exam14.*" />
+          <option name="PATTERN" value="ch08interface.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08extends.book.sec07.exam11.AnimalExample" />
+    <configuration name="C09cast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08interface.lecture.C09cast" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08extends.book.sec07.exam11.*" />
+          <option name="PATTERN" value="ch08interface.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C26abstractMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08extends.lecture.C26abstractMethod" />
+    <configuration name="C10instanceof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08interface.lecture.C10instanceof" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08extends.lecture.*" />
+          <option name="PATTERN" value="ch08interface.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08extends.book.sec07.exam10.PhoneExample" />
+    <configuration name="CastingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08interface.book.sec10.exam2.CastingExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08extends.book.sec07.exam10.*" />
+          <option name="PATTERN" value="ch08interface.book.sec10.exam2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch08extends.book.sec07.exam7.SmartPhoneExample" />
+    <configuration name="InstanceofExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08interface.book.sec12.InstanceofExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch08extends.book.sec07.exam7.*" />
+          <option name="PATTERN" value="ch08interface.book.sec12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Activity" />
-        <item itemvalue="Application.AnimalExample" />
-        <item itemvalue="Application.PhoneExample" />
-        <item itemvalue="Application.C26abstractMethod" />
-        <item itemvalue="Application.SmartPhoneExample" />
+        <item itemvalue="Application.InstanceofExample" />
+        <item itemvalue="Application.C10instanceof" />
+        <item itemvalue="Application.C09cast" />
+        <item itemvalue="Application.CastingExample" />
+        <item itemvalue="Application.C07return" />
       </list>
     </recent_temporary>
   </component>
@@ -164,54 +175,7 @@
       <workItem from="1693266403606" duration="1456000" />
       <workItem from="1693267986599" duration="27296000" />
       <workItem from="1693353356318" duration="29228000" />
-    </task>
-    <task id="LOCAL-00001" summary="객체와 클래스">
-      <option name="closed" value="true" />
-      <created>1693204595164</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1693204595164</updated>
-    </task>
-    <task id="LOCAL-00002" summary="객체와 클래스">
-      <option name="closed" value="true" />
-      <created>1693205023649</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1693205023649</updated>
-    </task>
-    <task id="LOCAL-00003" summary="MyClass01에 name 필드 추가">
-      <option name="closed" value="true" />
-      <created>1693205888637</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1693205888637</updated>
-    </task>
-    <task id="LOCAL-00004" summary="MyClass01에 name 필드 추가">
-      <option name="closed" value="true" />
-      <created>1693205928984</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1693205928984</updated>
-    </task>
-    <task id="LOCAL-00005" summary="MyClass01에 address 필드 추가">
-      <option name="closed" value="true" />
-      <created>1693206841220</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1693206841220</updated>
-    </task>
-    <task id="LOCAL-00006" summary="MyClass01에 address 필드 추가">
-      <option name="closed" value="true" />
-      <created>1693208780650</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1693208780650</updated>
+      <workItem from="1693440667131" duration="21412000" />
     </task>
     <task id="LOCAL-00007" summary="MyClass01에 address 필드 추가">
       <option name="closed" value="true" />
@@ -517,7 +481,95 @@
       <option name="project" value="LOCAL" />
       <updated>1693382027656</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="접근 제어자">
+      <option name="closed" value="true" />
+      <created>1693442851789</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1693442851789</updated>
+    </task>
+    <task id="LOCAL-00046" summary="접근 제어자">
+      <option name="closed" value="true" />
+      <created>1693442961562</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1693442961562</updated>
+    </task>
+    <task id="LOCAL-00047" summary="접근 제어자 예시">
+      <option name="closed" value="true" />
+      <created>1693443557608</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1693443557608</updated>
+    </task>
+    <task id="LOCAL-00048" summary="접근 제어자 예시">
+      <option name="closed" value="true" />
+      <created>1693445246540</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1693445246540</updated>
+    </task>
+    <task id="LOCAL-00049" summary="ch08 -&gt; ch07 수정">
+      <option name="closed" value="true" />
+      <created>1693445488798</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1693445488798</updated>
+    </task>
+    <task id="LOCAL-00050" summary="String에 포함된 기능들">
+      <option name="closed" value="true" />
+      <created>1693452213646</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1693452213646</updated>
+    </task>
+    <task id="LOCAL-00051" summary="인터페이스 예">
+      <option name="closed" value="true" />
+      <created>1693458970252</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1693458970252</updated>
+    </task>
+    <task id="LOCAL-00052" summary="인터페이스 예제">
+      <option name="closed" value="true" />
+      <created>1693458980464</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1693458980464</updated>
+    </task>
+    <task id="LOCAL-00053" summary="인터페이스 예제">
+      <option name="closed" value="true" />
+      <created>1693464193186</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1693464193186</updated>
+    </task>
+    <task id="LOCAL-00054" summary="인터페이스 다형성">
+      <option name="closed" value="true" />
+      <created>1693464203463</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1693464203463</updated>
+    </task>
+    <task id="LOCAL-00055" summary="리턴문 인터페이스">
+      <option name="closed" value="true" />
+      <created>1693466434945</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1693466434945</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,14 +587,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="static 개념 설명" />
-    <MESSAGE value="private, public 쓰는경우" />
-    <MESSAGE value="extends 상속 정리" />
-    <MESSAGE value="private field 의 예" />
-    <MESSAGE value="팩키지 시작은 소문자" />
-    <MESSAGE value="상속" />
-    <MESSAGE value="override 재정의" />
-    <MESSAGE value="override 재정의 예제" />
     <MESSAGE value="super의 사용방법" />
     <MESSAGE value="super의 사용방법 예제" />
     <MESSAGE value="다형성 예제" />
@@ -560,6 +604,30 @@
     <MESSAGE value="abstract 추상화 설명" />
     <MESSAGE value="final 설명" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="접근 제어자" />
+    <MESSAGE value="접근 제어자 예시" />
+    <MESSAGE value="ch08 -&gt; ch07 수정" />
+    <MESSAGE value="String에 포함된 기능들" />
+    <MESSAGE value="인터페이스 예" />
+    <MESSAGE value="인터페이스 예제" />
+    <MESSAGE value="인터페이스 다형성" />
+    <MESSAGE value="리턴문 인터페이스" />
+    <option name="LAST_COMMIT_MESSAGE" value="리턴문 인터페이스" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch07extends/lecture/package1/C31accessModifier.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch08interface/book/sec10/exam1/PromotionExample.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

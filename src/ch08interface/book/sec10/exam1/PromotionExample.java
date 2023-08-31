@@ -1,4 +1,4 @@
-package ch08interface.book.sec10;
+package ch08interface.book.sec10.exam1;
 
 interface A { }
 class B implements A{}
