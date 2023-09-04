@@ -1,4 +1,4 @@
-package ch16lambda.book.sec2.exam1;
+package ch16lambda.book.sec2;
 
 public class LambdaExample {
     public static void main(String[] args) {

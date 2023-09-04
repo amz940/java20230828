@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="패키지 변경">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="람다식 사용법">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/example/no05/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/example/no05/Action.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/example/no05/ActionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/example/no05/ActionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/example/no06/Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/example/no06/Anonymous.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/example/no06/AnonymousExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/example/no06/AnonymousExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch09/example/no06/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch09/example/no06/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec2/exam1/LambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec2/LambdaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec2/exam1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec2/exam1/Workable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec2/Workable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec5/Calcuable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec5/Calcuable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec5/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec5/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec5/MethodReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec5/MethodReferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec5/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch16lambda/lecture/C08methodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/lecture/C08methodReference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +88,13 @@
       <recent name="ch08interface.exercise.p07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnonymousExample">
-    <configuration name="AnonymousExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.example.no06.AnonymousExample" />
+  <component name="RunManager" selected="Application.MethodReferenceExample">
+    <configuration name="C02lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16lambda.lecture.C02lambda" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.example.no06.*" />
+          <option name="PATTERN" value="ch16lambda.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.book.sec6.exam3.ButtonExample" />
+    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16lambda.book.sec5.MethodReferenceExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.book.sec6.exam3.*" />
+          <option name="PATTERN" value="ch16lambda.book.sec5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.lecture.C11interface" />
+    <configuration name="ch16lambda.book.sec2.exam1.LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16lambda.book.sec2.exam1.LambdaExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.lecture.*" />
+          <option name="PATTERN" value="ch16lambda.book.sec2.exam1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.book.sec7.exam1.CarExample" />
+    <configuration name="ch16lambda.book.sec3.LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16lambda.book.sec3.LambdaExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.book.sec7.exam1.*" />
+          <option name="PATTERN" value="ch16lambda.book.sec3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.book.sec7.exam2.HomeExample" />
+    <configuration name="ch16lambda.book.sec4.LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16lambda.book.sec4.LambdaExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.book.sec7.exam2.*" />
+          <option name="PATTERN" value="ch16lambda.book.sec4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnonymousExample" />
-        <item itemvalue="Application.HomeExample" />
-        <item itemvalue="Application.C11interface" />
-        <item itemvalue="Application.CarExample" />
-        <item itemvalue="Application.ButtonExample" />
+        <item itemvalue="Application.MethodReferenceExample" />
+        <item itemvalue="Application.ch16lambda.book.sec4.LambdaExample" />
+        <item itemvalue="Application.ch16lambda.book.sec3.LambdaExample" />
+        <item itemvalue="Application.ch16lambda.book.sec2.exam1.LambdaExample" />
+        <item itemvalue="Application.C02lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -176,31 +179,7 @@
       <workItem from="1693267986599" duration="27296000" />
       <workItem from="1693353356318" duration="29228000" />
       <workItem from="1693440667131" duration="23839000" />
-      <workItem from="1693785533313" duration="6522000" />
-    </task>
-    <task id="LOCAL-00009" summary="git / src/ 추가">
-      <option name="closed" value="true" />
-      <created>1693209240924</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1693209240924</updated>
-    </task>
-    <task id="LOCAL-00010" summary="git / src/ 제거">
-      <option name="closed" value="true" />
-      <created>1693209293012</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1693209293012</updated>
-    </task>
-    <task id="LOCAL-00011" summary="git / src/ 제거">
-      <option name="closed" value="true" />
-      <created>1693209731003</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1693209731003</updated>
+      <workItem from="1693785533313" duration="21976000" />
     </task>
     <task id="LOCAL-00012" summary="git / src/ 제거">
       <option name="closed" value="true" />
@@ -570,7 +549,31 @@
       <option name="project" value="LOCAL" />
       <updated>1693467960422</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="익명 객체 사용법">
+      <option name="closed" value="true" />
+      <created>1693793516488</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1693793516488</updated>
+    </task>
+    <task id="LOCAL-00059" summary="익명 객체 사용법">
+      <option name="closed" value="true" />
+      <created>1693794678371</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1693794678371</updated>
+    </task>
+    <task id="LOCAL-00060" summary="람다식 사용법">
+      <option name="closed" value="true" />
+      <created>1693798758425</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1693798758425</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,8 +591,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="다형성 예제" />
-    <MESSAGE value="다형성 이란?" />
     <MESSAGE value="다형성 예제 3" />
     <MESSAGE value="예제와 학습내용 분리" />
     <MESSAGE value="기본형과 참조형의 차이 예제" />
@@ -613,7 +614,9 @@
     <MESSAGE value="리턴문 인터페이스" />
     <MESSAGE value="인터페이스 강제형변환" />
     <MESSAGE value="패키지 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지 변경" />
+    <MESSAGE value="익명 객체 사용법" />
+    <MESSAGE value="람다식 사용법" />
+    <option name="LAST_COMMIT_MESSAGE" value="람다식 사용법" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
