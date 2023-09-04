@@ -3,7 +3,7 @@ package ch09.example.no06;
 public class AnonymousExample {
     public static void main(String[] args) {
         Anonymous anonymous = new Anonymous();
-        anonymous.field.run();
+        anonymous.vehi.run();
         anonymous.method1();
         anonymous.method2(new Vehicle() {
             @Override

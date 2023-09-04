@@ -1,7 +1,7 @@
 package ch09.example.no06;
 
 public class Anonymous {
-    Vehicle field = new Vehicle() {
+    Vehicle vehi = new Vehicle() {
         @Override
         public void run() {
             System.out.println("자전거가 달립니다");
