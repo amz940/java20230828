@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="배열 다룰때 사용하는 메소드">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="삭제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InternetExample/Method01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InternetExample/Method01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12api/lecture/C14charAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12api/lecture/C14charAt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12api/lecture/C18regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12api/lecture/C18regex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch12api/lecture/C25arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch12api/lecture/C25arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec5/exam2/MethodReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec5/exam2/MethodReferenceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch16lambda/book/sec5/exam2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch16lambda/book/sec5/exam2/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,47 +176,7 @@
       <workItem from="1693440667131" duration="23839000" />
       <workItem from="1693785533313" duration="28162000" />
       <workItem from="1693871529291" duration="24032000" />
-      <workItem from="1693959016841" duration="21773000" />
-    </task>
-    <task id="LOCAL-00032" summary="기본형과 참조형의 차이 예제">
-      <option name="closed" value="true" />
-      <created>1693305766316</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1693305766316</updated>
-    </task>
-    <task id="LOCAL-00033" summary="기본형과 참조형의 차이 예제">
-      <option name="closed" value="true" />
-      <created>1693306172551</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1693306172551</updated>
-    </task>
-    <task id="LOCAL-00034" summary="new 타입 설명">
-      <option name="closed" value="true" />
-      <created>1693354911214</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1693354911214</updated>
-    </task>
-    <task id="LOCAL-00035" summary="강제 형변환">
-      <option name="closed" value="true" />
-      <created>1693356106042</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1693356106042</updated>
-    </task>
-    <task id="LOCAL-00036" summary="instanceof를 활용해 구분">
-      <option name="closed" value="true" />
-      <created>1693358674376</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1693358674376</updated>
+      <workItem from="1693959016841" duration="23630000" />
     </task>
     <task id="LOCAL-00037" summary="강제 형변환">
       <option name="closed" value="true" />
@@ -576,7 +530,47 @@
       <option name="project" value="LOCAL" />
       <updated>1693985893848</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary=".">
+      <option name="closed" value="true" />
+      <created>1693986583365</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1693986583365</updated>
+    </task>
+    <task id="LOCAL-00082" summary="api">
+      <option name="closed" value="true" />
+      <created>1693986600585</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1693986600585</updated>
+    </task>
+    <task id="LOCAL-00083" summary="람다식">
+      <option name="closed" value="true" />
+      <created>1693986609605</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1693986609605</updated>
+    </task>
+    <task id="LOCAL-00084" summary=".">
+      <option name="closed" value="true" />
+      <created>1693986618695</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1693986618695</updated>
+    </task>
+    <task id="LOCAL-00085" summary="삭제">
+      <option name="closed" value="true" />
+      <created>1693986625163</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1693986625163</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,10 +588,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String에 포함된 기능들" />
-    <MESSAGE value="인터페이스 예" />
-    <MESSAGE value="인터페이스 예제" />
-    <MESSAGE value="인터페이스 다형성" />
     <MESSAGE value="리턴문 인터페이스" />
     <MESSAGE value="인터페이스 강제형변환" />
     <MESSAGE value="패키지 변경" />
@@ -619,7 +609,11 @@
     <MESSAGE value="wrapper 클래스" />
     <MESSAGE value="Math에서 주로 사용하는 코드" />
     <MESSAGE value="배열 다룰때 사용하는 메소드" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열 다룰때 사용하는 메소드" />
+    <MESSAGE value="api" />
+    <MESSAGE value="람다식" />
+    <MESSAGE value="." />
+    <MESSAGE value="삭제" />
+    <option name="LAST_COMMIT_MESSAGE" value="삭제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
