@@ -8,7 +8,8 @@ public class C25arrays {
         Arrays.sort(arr1);
         System.out.println(Arrays.toString(arr1));
 
-        Student[] arr2 = {new Student("이강인"),
+        Student[] arr2 = {
+                new Student("이강인"),
                 new Student("손흥민"),
                 new Student("김민재")
         };
