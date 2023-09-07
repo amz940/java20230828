@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="제네릭">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="wildcard 이란">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13generic/exam/ContainerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13generic/exam/no2/ContainerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch13generic/exam/no3/ContainExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch13generic/exam/no3/ContainExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch15collection/lecture/C04forEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15collection/lecture/C04forEach.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +84,13 @@
       <recent name="ch08interface.exercise.p07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainExample">
-    <configuration name="C04generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13generic.lecture.C04generic" />
+  <component name="RunManager" selected="Application.C04forEach">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.book.sec2.exam1.ArrayListExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13generic.lecture.*" />
+          <option name="PATTERN" value="ch15collection.book.sec2.exam1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C1before" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13generic.lecture.C1before" />
+    <configuration name="C03contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C03contains" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13generic.lecture.*" />
+          <option name="PATTERN" value="ch15collection.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13generic.exam.no3.ContainExample" />
+    <configuration name="C04forEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C04forEach" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13generic.exam.no3.*" />
+          <option name="PATTERN" value="ch15collection.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13generic.exam.no2.ContainerExample" />
+    <configuration name="ListExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.exam.no7.ListExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13generic.exam.no2.*" />
+          <option name="PATTERN" value="ch15collection.exam.no7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13generic.book.sec2.GenericExample" />
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.exam.no7.ListExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch13generic.book.sec2.*" />
+          <option name="PATTERN" value="ch15collection.exam.no7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContainExample" />
-        <item itemvalue="Application.GenericExample" />
-        <item itemvalue="Application.ContainerExample" />
-        <item itemvalue="Application.C04generic" />
-        <item itemvalue="Application.C1before" />
+        <item itemvalue="Application.C04forEach" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.ListExample (1)" />
+        <item itemvalue="Application.C03contains" />
+        <item itemvalue="Application.ListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -180,31 +178,7 @@
       <workItem from="1693785533313" duration="28162000" />
       <workItem from="1693871529291" duration="24032000" />
       <workItem from="1693959016841" duration="23630000" />
-      <workItem from="1694045507739" duration="6272000" />
-    </task>
-    <task id="LOCAL-00038" summary="상속 설명">
-      <option name="closed" value="true" />
-      <created>1693365371771</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1693365371771</updated>
-    </task>
-    <task id="LOCAL-00039" summary="상속 예제">
-      <option name="closed" value="true" />
-      <created>1693365394994</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1693365394994</updated>
-    </task>
-    <task id="LOCAL-00040" summary="생성자 설명">
-      <option name="closed" value="true" />
-      <created>1693376290166</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1693376290166</updated>
+      <workItem from="1694045507739" duration="20710000" />
     </task>
     <task id="LOCAL-00041" summary="생성자 예제">
       <option name="closed" value="true" />
@@ -574,7 +548,31 @@
       <option name="project" value="LOCAL" />
       <updated>1694049721054</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="제네릭">
+      <option name="closed" value="true" />
+      <created>1694056511239</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1694056511239</updated>
+    </task>
+    <task id="LOCAL-00088" summary="제네릭">
+      <option name="closed" value="true" />
+      <created>1694056518611</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1694056518611</updated>
+    </task>
+    <task id="LOCAL-00089" summary="wildcard 이란">
+      <option name="closed" value="true" />
+      <created>1694057570904</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1694057570904</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +590,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="인터페이스 강제형변환" />
     <MESSAGE value="패키지 변경" />
     <MESSAGE value="익명 객체 사용법" />
     <MESSAGE value="람다식 사용법" />
@@ -617,7 +614,8 @@
     <MESSAGE value="." />
     <MESSAGE value="삭제" />
     <MESSAGE value="제네릭" />
-    <option name="LAST_COMMIT_MESSAGE" value="제네릭" />
+    <MESSAGE value="wildcard 이란" />
+    <option name="LAST_COMMIT_MESSAGE" value="wildcard 이란" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
