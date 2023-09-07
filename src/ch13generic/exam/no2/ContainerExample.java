@@ -1,4 +1,4 @@
-package ch13generic.exam;
+package ch13generic.exam.no2;
 
 public class ContainerExample {
     public static void main(String[] args) {
