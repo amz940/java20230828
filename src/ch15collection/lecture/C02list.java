@@ -5,7 +5,8 @@ import java.util.List;
 
 public class C02list {
     public static void main(String[] args) {
-        // List : 순서가 있다, 중복된 객체(element) 저장 가능
+        // List : 순서를 유지하고 저장한다      <-----> set이랑 반대 개념
+        //        중복된 객체(element) 저장 가능
         // API 에서 java.util.List로 검색
         List<String> list = new ArrayList<>();
 
