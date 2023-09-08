@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="이중 list">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java20230828.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java20230828.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch15collection/lecture/C02list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15collection/lecture/C02list.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,47 +204,7 @@
       <workItem from="1694045507739" duration="25062000" />
       <workItem from="1694130854967" duration="18262000" />
       <workItem from="1694158159776" duration="480000" />
-      <workItem from="1694158653434" duration="698000" />
-    </task>
-    <task id="LOCAL-00044" summary=".">
-      <option name="closed" value="true" />
-      <created>1693382027656</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1693382027656</updated>
-    </task>
-    <task id="LOCAL-00045" summary="접근 제어자">
-      <option name="closed" value="true" />
-      <created>1693442851789</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1693442851789</updated>
-    </task>
-    <task id="LOCAL-00046" summary="접근 제어자">
-      <option name="closed" value="true" />
-      <created>1693442961562</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1693442961562</updated>
-    </task>
-    <task id="LOCAL-00047" summary="접근 제어자 예시">
-      <option name="closed" value="true" />
-      <created>1693443557608</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1693443557608</updated>
-    </task>
-    <task id="LOCAL-00048" summary="접근 제어자 예시">
-      <option name="closed" value="true" />
-      <created>1693445246540</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1693445246540</updated>
+      <workItem from="1694158653434" duration="1923000" />
     </task>
     <task id="LOCAL-00049" summary="ch08 -&gt; ch07 수정">
       <option name="closed" value="true" />
@@ -599,7 +558,47 @@
       <option name="project" value="LOCAL" />
       <updated>1694150571335</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="학원에서 공부한것들">
+      <option name="closed" value="true" />
+      <created>1694159897260</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1694159897260</updated>
+    </task>
+    <task id="LOCAL-00094" summary=".">
+      <option name="closed" value="true" />
+      <created>1694159906049</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1694159906049</updated>
+    </task>
+    <task id="LOCAL-00095" summary="list">
+      <option name="closed" value="true" />
+      <created>1694159917341</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1694159917341</updated>
+    </task>
+    <task id="LOCAL-00096" summary="set 이란">
+      <option name="closed" value="true" />
+      <created>1694159940838</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1694159940838</updated>
+    </task>
+    <task id="LOCAL-00097" summary="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏">
+      <option name="closed" value="true" />
+      <created>1694159963090</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1694159963090</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,10 +616,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="생성자 있을 시 람다 사용법" />
-    <MESSAGE value="object란?" />
-    <MESSAGE value="toString 사용법" />
-    <MESSAGE value="get 과 set의 사용법" />
     <MESSAGE value="hashcode 와 equals의 차이점" />
     <MESSAGE value="substring" />
     <MESSAGE value="charAt()" />
@@ -635,14 +630,18 @@
     <MESSAGE value="배열 다룰때 사용하는 메소드" />
     <MESSAGE value="api" />
     <MESSAGE value="람다식" />
-    <MESSAGE value="." />
     <MESSAGE value="삭제" />
     <MESSAGE value="제네릭" />
     <MESSAGE value="wildcard 이란" />
     <MESSAGE value="제네릭 코드" />
     <MESSAGE value="콜렉션" />
     <MESSAGE value="이중 list" />
-    <option name="LAST_COMMIT_MESSAGE" value="이중 list" />
+    <MESSAGE value="학원에서 공부한것들" />
+    <MESSAGE value="." />
+    <MESSAGE value="list" />
+    <MESSAGE value="set 이란" />
+    <MESSAGE value="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏" />
+    <option name="LAST_COMMIT_MESSAGE" value="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
