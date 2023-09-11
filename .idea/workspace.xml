@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java20230828.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java20230828.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch15collection/book/sec3/exam3/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15collection/book/sec3/exam3/HashSetExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +102,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.HashSetExample">
-    <configuration name="C06nestedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C06nestedList" />
+    <configuration name="C09iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C09iterator" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +115,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C07set" />
+    <configuration name="C10removeIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C10removeIf" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch15collection.lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C11equals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C11equals" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +142,11 @@
       </method>
     </configuration>
     <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15collection.book.sec3.exam1.HashSetExample" />
+      <option name="MAIN_CLASS_NAME" value="ch15collection.exam.no8.HashSetExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15collection.book.sec3.exam1.*" />
+          <option name="PATTERN" value="ch15collection.exam.no8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,34 +154,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.generate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ch15collection.book.sec3.exam2.HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.book.sec3.exam2.HashSetExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch99reetCode.no118.*" />
+          <option name="PATTERN" value="ch15collection.book.sec3.exam2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ch99reetCode.no118" />
-      <option name="MAIN_CLASS_NAME" value="ch99reetCode.no118.SolutionTest" />
-      <option name="METHOD_NAME" value="generate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.lastStoneWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java20230828" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch99reetCode.no1046.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ch99reetCode.no1046" />
-      <option name="MAIN_CLASS_NAME" value="ch99reetCode.no1046.SolutionTest" />
-      <option name="METHOD_NAME" value="lastStoneWeight" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,10 +170,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HashSetExample" />
-        <item itemvalue="Application.C07set" />
-        <item itemvalue="JUnit.SolutionTest.generate" />
-        <item itemvalue="Application.C06nestedList" />
-        <item itemvalue="JUnit.SolutionTest.lastStoneWeight" />
+        <item itemvalue="Application.ch15collection.book.sec3.exam2.HashSetExample" />
+        <item itemvalue="Application.C11equals" />
+        <item itemvalue="Application.C10removeIf" />
+        <item itemvalue="Application.C09iterator" />
       </list>
     </recent_temporary>
   </component>
@@ -204,15 +198,8 @@
       <workItem from="1694045507739" duration="25062000" />
       <workItem from="1694130854967" duration="18262000" />
       <workItem from="1694158159776" duration="480000" />
-      <workItem from="1694158653434" duration="1923000" />
-    </task>
-    <task id="LOCAL-00049" summary="ch08 -&gt; ch07 수정">
-      <option name="closed" value="true" />
-      <created>1693445488798</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1693445488798</updated>
+      <workItem from="1694158653434" duration="2606000" />
+      <workItem from="1694389113310" duration="4617000" />
     </task>
     <task id="LOCAL-00050" summary="String에 포함된 기능들">
       <option name="closed" value="true" />
@@ -598,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694159963090</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary=".">
+      <option name="closed" value="true" />
+      <created>1694160752659</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1694160752659</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,11 +632,11 @@
     <MESSAGE value="콜렉션" />
     <MESSAGE value="이중 list" />
     <MESSAGE value="학원에서 공부한것들" />
-    <MESSAGE value="." />
     <MESSAGE value="list" />
     <MESSAGE value="set 이란" />
     <MESSAGE value="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏" />
-    <option name="LAST_COMMIT_MESSAGE" value="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
