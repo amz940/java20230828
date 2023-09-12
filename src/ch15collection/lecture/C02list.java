@@ -16,7 +16,7 @@ public class C02list {
         list.add("css");    // 2번 인덱스
         list.add("react");
 
-        // element 꺼내기
+        // 해당 인덱스에 element가 뭔지 확인
         String s = list.get(0);
         String s1 = list.get(3);
         System.out.println("s = " + s);
@@ -39,7 +39,7 @@ public class C02list {
         System.out.println(list.get(0));
         System.out.println(list.get(3));
 
-        // 있는 지 확인
+        // element가 list에 들어가 있는지 확인
         boolean contains = list.contains("java");
         boolean contains2 = list.contains("react");
         System.out.println("contains = " + contains);
