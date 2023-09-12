@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="collection set 사용법">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="불변 컬렉션">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch17stream/lecture/C16reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17stream/lecture/C16reduce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,20 +96,20 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ch99reetCode.no844" />
       <recent name="ch99reetCode.no1512" />
       <recent name="ch99reetCode.no1748" />
       <recent name="ch99reetCode.no1684" />
       <recent name="ch99reetCode.no287" />
-      <recent name="ch99reetCode.no771" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ParseInt">
-    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15collection.exam.no9.MapExample" />
+  <component name="RunManager" selected="Application.C16reduce">
+    <configuration name="C13map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C13map" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15collection.exam.no9.*" />
+          <option name="PATTERN" value="ch17stream.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch98internetExample.boxing.ParseInt" />
+    <configuration name="C14map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C14map" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch98internetExample.boxing.*" />
+          <option name="PATTERN" value="ch17stream.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch98internetExample.equals.Person" />
+    <configuration name="C15reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C15reduce" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch98internetExample.equals.*" />
+          <option name="PATTERN" value="ch17stream.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch98internetExample.equals.Person" />
+    <configuration name="C16reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C16reduce" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch98internetExample.equals.*" />
+          <option name="PATTERN" value="ch17stream.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,29 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.sumOfUnique" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ch17stream.exam.no6.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.exam.no6.Example" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch99reetCode.no1748.*" />
+          <option name="PATTERN" value="ch17stream.exam.no6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ch99reetCode.no1748" />
-      <option name="MAIN_CLASS_NAME" value="ch99reetCode.no1748.SolutionTest" />
-      <option name="METHOD_NAME" value="sumOfUnique" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParseInt" />
-        <item itemvalue="Application.Person (1)" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="JUnit.SolutionTest.sumOfUnique" />
-        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.C16reduce" />
+        <item itemvalue="Application.ch17stream.exam.no6.Example" />
+        <item itemvalue="Application.C15reduce" />
+        <item itemvalue="Application.C14map" />
+        <item itemvalue="Application.C13map" />
       </list>
     </recent_temporary>
   </component>
@@ -204,70 +202,7 @@
       <workItem from="1694158159776" duration="480000" />
       <workItem from="1694158653434" duration="2606000" />
       <workItem from="1694389113310" duration="23549000" />
-    </task>
-    <task id="LOCAL-00051" summary="인터페이스 예">
-      <option name="closed" value="true" />
-      <created>1693458970252</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1693458970252</updated>
-    </task>
-    <task id="LOCAL-00052" summary="인터페이스 예제">
-      <option name="closed" value="true" />
-      <created>1693458980464</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1693458980464</updated>
-    </task>
-    <task id="LOCAL-00053" summary="인터페이스 예제">
-      <option name="closed" value="true" />
-      <created>1693464193186</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1693464193186</updated>
-    </task>
-    <task id="LOCAL-00054" summary="인터페이스 다형성">
-      <option name="closed" value="true" />
-      <created>1693464203463</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1693464203463</updated>
-    </task>
-    <task id="LOCAL-00055" summary="리턴문 인터페이스">
-      <option name="closed" value="true" />
-      <created>1693466434945</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1693466434945</updated>
-    </task>
-    <task id="LOCAL-00056" summary="인터페이스 강제형변환">
-      <option name="closed" value="true" />
-      <created>1693467923562</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1693467923578</updated>
-    </task>
-    <task id="LOCAL-00057" summary="패키지 변경">
-      <option name="closed" value="true" />
-      <created>1693467960422</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1693467960422</updated>
-    </task>
-    <task id="LOCAL-00058" summary="익명 객체 사용법">
-      <option name="closed" value="true" />
-      <created>1693793516488</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1693793516488</updated>
+      <workItem from="1694476391213" duration="22733000" />
     </task>
     <task id="LOCAL-00059" summary="익명 객체 사용법">
       <option name="closed" value="true" />
@@ -597,7 +532,71 @@
       <option name="project" value="LOCAL" />
       <updated>1694395190001</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="collection list 사용법">
+      <option name="closed" value="true" />
+      <created>1694480204408</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1694480204408</updated>
+    </task>
+    <task id="LOCAL-00101" summary="stack과 queue의 차이점">
+      <option name="closed" value="true" />
+      <created>1694486148985</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1694486148985</updated>
+    </task>
+    <task id="LOCAL-00102" summary="stack과 queue의 차이점">
+      <option name="closed" value="true" />
+      <created>1694486158072</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1694486158072</updated>
+    </task>
+    <task id="LOCAL-00103" summary="reet code">
+      <option name="closed" value="true" />
+      <created>1694486183968</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1694486183968</updated>
+    </task>
+    <task id="LOCAL-00104" summary="불변컬렉션과 수정방법">
+      <option name="closed" value="true" />
+      <created>1694486204580</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1694486204580</updated>
+    </task>
+    <task id="LOCAL-00105" summary="stack과 queqe의 차이점">
+      <option name="closed" value="true" />
+      <created>1694486236566</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1694486236566</updated>
+    </task>
+    <task id="LOCAL-00106" summary="불변 컬렉션 예시">
+      <option name="closed" value="true" />
+      <created>1694486249784</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1694486249784</updated>
+    </task>
+    <task id="LOCAL-00107" summary="불변 컬렉션">
+      <option name="closed" value="true" />
+      <created>1694486566221</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1694486566221</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,13 +614,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="substring" />
-    <MESSAGE value="charAt()" />
-    <MESSAGE value="indexOf" />
-    <MESSAGE value="예제 문제들" />
-    <MESSAGE value="replace" />
-    <MESSAGE value="replaceAll" />
-    <MESSAGE value="regex" />
     <MESSAGE value="matches 사용법" />
     <MESSAGE value="wrapper 클래스" />
     <MESSAGE value="Math에서 주로 사용하는 코드" />
@@ -640,7 +632,14 @@
     <MESSAGE value="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏" />
     <MESSAGE value="." />
     <MESSAGE value="collection set 사용법" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection set 사용법" />
+    <MESSAGE value="collection list 사용법" />
+    <MESSAGE value="stack과 queue의 차이점" />
+    <MESSAGE value="reet code" />
+    <MESSAGE value="불변컬렉션과 수정방법" />
+    <MESSAGE value="stack과 queqe의 차이점" />
+    <MESSAGE value="불변 컬렉션 예시" />
+    <MESSAGE value="불변 컬렉션" />
+    <option name="LAST_COMMIT_MESSAGE" value="불변 컬렉션" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -664,6 +663,10 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
