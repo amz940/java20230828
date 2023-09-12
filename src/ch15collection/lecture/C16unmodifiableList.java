@@ -14,6 +14,7 @@ public class C16unmodifiableList {
 
         // 수정 불가 list 만들기
         // 한번 쓰고 버릴려고
+        // 읽기 전용 ,
         List<String> list2 = List.of("java", "react", "css");
         list2.add("vue");
         list2.remove(0);
