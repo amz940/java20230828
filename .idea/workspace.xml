@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="불변 컬렉션">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="stream 사용법">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch17stream/lecture/C16reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17stream/lecture/C16reduce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch15collection/lecture/C05nestedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15collection/lecture/C05nestedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch15collection/lecture/C06nestedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15collection/lecture/C06nestedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,13 +104,13 @@
       <recent name="ch99reetCode.no287" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C16reduce">
-    <configuration name="C13map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C13map" />
+  <component name="RunManager" selected="Application.C06nestedList">
+    <configuration name="C05nestedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C05nestedList" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17stream.lecture.*" />
+          <option name="PATTERN" value="ch15collection.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C14map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C14map" />
+    <configuration name="C06nestedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C06nestedList" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17stream.lecture.*" />
+          <option name="PATTERN" value="ch15collection.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C06nestedList" />
+        <item itemvalue="Application.C05nestedList" />
         <item itemvalue="Application.C16reduce" />
         <item itemvalue="Application.ch17stream.exam.no6.Example" />
         <item itemvalue="Application.C15reduce" />
-        <item itemvalue="Application.C14map" />
-        <item itemvalue="Application.C13map" />
       </list>
     </recent_temporary>
   </component>
@@ -202,15 +203,8 @@
       <workItem from="1694158159776" duration="480000" />
       <workItem from="1694158653434" duration="2606000" />
       <workItem from="1694389113310" duration="23549000" />
-      <workItem from="1694476391213" duration="22733000" />
-    </task>
-    <task id="LOCAL-00059" summary="익명 객체 사용법">
-      <option name="closed" value="true" />
-      <created>1693794678371</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1693794678371</updated>
+      <workItem from="1694476391213" duration="23200000" />
+      <workItem from="1694506342170" duration="2061000" />
     </task>
     <task id="LOCAL-00060" summary="람다식 사용법">
       <option name="closed" value="true" />
@@ -596,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694486566221</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="stream 사용법">
+      <option name="closed" value="true" />
+      <created>1694504478446</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1694504478446</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,7 +616,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="matches 사용법" />
     <MESSAGE value="wrapper 클래스" />
     <MESSAGE value="Math에서 주로 사용하는 코드" />
     <MESSAGE value="배열 다룰때 사용하는 메소드" />
@@ -639,7 +640,8 @@
     <MESSAGE value="stack과 queqe의 차이점" />
     <MESSAGE value="불변 컬렉션 예시" />
     <MESSAGE value="불변 컬렉션" />
-    <option name="LAST_COMMIT_MESSAGE" value="불변 컬렉션" />
+    <MESSAGE value="stream 사용법" />
+    <option name="LAST_COMMIT_MESSAGE" value="stream 사용법" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
