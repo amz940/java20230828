@@ -1,6 +1,7 @@
 package ch17stream.exam.no6;
 
 import java.util.List;
+import java.util.OptionalDouble;
 
 public class Example {
     public static void main(String[] args) {
@@ -43,5 +44,14 @@ public class Example {
                 .map(y -> y.getAge())
                 .reduce(Integer.MAX_VALUE, Math::min);
         System.out.println("minAge = " + minAge);
+
+        System.out.println("평균 구하기");
+        OptionalDouble average = list.stream()
+//                .map(y -> y.getAge())
+                .mapToInt(Member::getAge)
+                .average();
+        System.out.println("average = " + average.getAsDouble());
+
+
     }
 }
