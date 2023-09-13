@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="stream 사용법">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="평균구하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch15collection/lecture/C05nestedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15collection/lecture/C05nestedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch15collection/lecture/C06nestedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15collection/lecture/C06nestedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,35 +102,9 @@
       <recent name="ch99reetCode.no287" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C06nestedList">
-    <configuration name="C05nestedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C05nestedList" />
-      <module name="java20230828" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch15collection.lecture.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06nestedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C06nestedList" />
-      <module name="java20230828" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch15collection.lecture.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C15reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C15reduce" />
+  <component name="RunManager" selected="Application.Ex9_10">
+    <configuration name="C25grouping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C25grouping" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
@@ -144,8 +116,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.C16reduce" />
+    <configuration name="Ex9_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch98internetExample.ch09_13.Ex9_10" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch98internetExample.ch09_13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c24grouping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.lecture.c24grouping" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
@@ -157,12 +142,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch17stream.exam.no6.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17stream.exam.no6.Example" />
+    <configuration name="ch17stream.book.sec12.exam3.CollectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.book.sec12.exam3.CollectExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17stream.exam.no6.*" />
+          <option name="PATTERN" value="ch17stream.book.sec12.exam3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch17stream.exam.no8.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17stream.exam.no8.Example" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch17stream.exam.no8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06nestedList" />
-        <item itemvalue="Application.C05nestedList" />
-        <item itemvalue="Application.C16reduce" />
-        <item itemvalue="Application.ch17stream.exam.no6.Example" />
-        <item itemvalue="Application.C15reduce" />
+        <item itemvalue="Application.Ex9_10" />
+        <item itemvalue="Application.c24grouping" />
+        <item itemvalue="Application.ch17stream.book.sec12.exam3.CollectExample" />
+        <item itemvalue="Application.C25grouping" />
+        <item itemvalue="Application.ch17stream.exam.no8.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -204,23 +202,8 @@
       <workItem from="1694158653434" duration="2606000" />
       <workItem from="1694389113310" duration="23549000" />
       <workItem from="1694476391213" duration="23200000" />
-      <workItem from="1694506342170" duration="2061000" />
-    </task>
-    <task id="LOCAL-00060" summary="람다식 사용법">
-      <option name="closed" value="true" />
-      <created>1693798758425</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1693798758425</updated>
-    </task>
-    <task id="LOCAL-00061" summary="람다식 사용법">
-      <option name="closed" value="true" />
-      <created>1693815873951</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1693815873951</updated>
+      <workItem from="1694506342170" duration="2277000" />
+      <workItem from="1694563031540" duration="19841000" />
     </task>
     <task id="LOCAL-00062" summary="람다식 사용법">
       <option name="closed" value="true" />
@@ -598,7 +581,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694504478446</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="중복리스트">
+      <option name="closed" value="true" />
+      <created>1694508565568</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1694508565569</updated>
+    </task>
+    <task id="LOCAL-00110" summary="평균구하기">
+      <option name="closed" value="true" />
+      <created>1694571372581</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1694571372581</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,8 +615,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="wrapper 클래스" />
-    <MESSAGE value="Math에서 주로 사용하는 코드" />
     <MESSAGE value="배열 다룰때 사용하는 메소드" />
     <MESSAGE value="api" />
     <MESSAGE value="람다식" />
@@ -641,7 +638,9 @@
     <MESSAGE value="불변 컬렉션 예시" />
     <MESSAGE value="불변 컬렉션" />
     <MESSAGE value="stream 사용법" />
-    <option name="LAST_COMMIT_MESSAGE" value="stream 사용법" />
+    <MESSAGE value="중복리스트" />
+    <MESSAGE value="평균구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="평균구하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
