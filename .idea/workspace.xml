@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="예외 처리">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch17stream/lecture/C01stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17stream/lecture/C01stream.java" afterDir="false" />
-    </list>
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="IO 사용법 및 예제" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,23 +204,7 @@
       <workItem from="1694563031540" duration="24522000" />
       <workItem from="1694649477020" duration="26556000" />
       <workItem from="1694735158958" duration="11886000" />
-      <workItem from="1694748112303" duration="11036000" />
-    </task>
-    <task id="LOCAL-00066" summary="get 과 set의 사용법">
-      <option name="closed" value="true" />
-      <created>1693900071934</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1693900071934</updated>
-    </task>
-    <task id="LOCAL-00067" summary="hashcode 와 equals의 차이점">
-      <option name="closed" value="true" />
-      <created>1693900098248</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1693900098248</updated>
+      <workItem from="1694748112303" duration="11592000" />
     </task>
     <task id="LOCAL-00068" summary="substring">
       <option name="closed" value="true" />
@@ -601,7 +582,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694675816440</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="스트림">
+      <option name="closed" value="true" />
+      <created>1694764421734</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1694764421734</updated>
+    </task>
+    <task id="LOCAL-00116" summary="IO 사용법 및 예제">
+      <option name="closed" value="true" />
+      <created>1694764438252</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1694764438252</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,8 +616,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="람다식" />
-    <MESSAGE value="삭제" />
     <MESSAGE value="제네릭" />
     <MESSAGE value="wildcard 이란" />
     <MESSAGE value="제네릭 코드" />
@@ -644,7 +639,9 @@
     <MESSAGE value="collect 사용법" />
     <MESSAGE value="." />
     <MESSAGE value="예외 처리" />
-    <option name="LAST_COMMIT_MESSAGE" value="예외 처리" />
+    <MESSAGE value="스트림" />
+    <MESSAGE value="IO 사용법 및 예제" />
+    <option name="LAST_COMMIT_MESSAGE" value="IO 사용법 및 예제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
