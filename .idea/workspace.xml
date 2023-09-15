@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment=".">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="예외 처리">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch17stream/lecture/C01stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17stream/lecture/C01stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +103,13 @@
       <recent name="ch99reetCode.no287" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C24custom">
-    <configuration name="AccountExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11exception.book.sec6.AccountExample" />
+  <component name="RunManager" selected="Application.C21copy">
+    <configuration name="C18filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C18filter" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11exception.book.sec6.*" />
+          <option name="PATTERN" value="ch18IO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11exception.book.sec6.AccountExample" />
+    <configuration name="C19filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C19filter" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11exception.book.sec6.*" />
+          <option name="PATTERN" value="ch18IO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C23custom (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11exception.lecture.C23custom" />
+    <configuration name="C20bufferd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C20bufferd" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11exception.lecture.*" />
+          <option name="PATTERN" value="ch18IO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C24custom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11exception.lecture.C24custom" />
+    <configuration name="C21copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C21copy" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11exception.lecture.*" />
+          <option name="PATTERN" value="ch18IO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11exception.exam.no7.LoginExample" />
+    <configuration name="CharacterConvertStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18IO.book.sec06.CharacterConvertStreamExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11exception.exam.no7.*" />
+          <option name="PATTERN" value="ch18IO.book.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C24custom" />
-        <item itemvalue="Application.LoginExample" />
-        <item itemvalue="Application.AccountExample (1)" />
-        <item itemvalue="Application.AccountExample" />
-        <item itemvalue="Application.C23custom (1)" />
+        <item itemvalue="Application.C21copy" />
+        <item itemvalue="Application.C20bufferd" />
+        <item itemvalue="Application.CharacterConvertStreamExample" />
+        <item itemvalue="Application.C19filter" />
+        <item itemvalue="Application.C18filter" />
       </list>
     </recent_temporary>
   </component>
@@ -204,23 +205,9 @@
       <workItem from="1694476391213" duration="23200000" />
       <workItem from="1694506342170" duration="2277000" />
       <workItem from="1694563031540" duration="24522000" />
-      <workItem from="1694649477020" duration="21252000" />
-    </task>
-    <task id="LOCAL-00064" summary="object란?">
-      <option name="closed" value="true" />
-      <created>1693900048520</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1693900048520</updated>
-    </task>
-    <task id="LOCAL-00065" summary="toString 사용법">
-      <option name="closed" value="true" />
-      <created>1693900058097</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1693900058097</updated>
+      <workItem from="1694649477020" duration="26556000" />
+      <workItem from="1694735158958" duration="11886000" />
+      <workItem from="1694748112303" duration="11036000" />
     </task>
     <task id="LOCAL-00066" summary="get 과 set의 사용법">
       <option name="closed" value="true" />
@@ -598,7 +585,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694592967399</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="예외 처리">
+      <option name="closed" value="true" />
+      <created>1694675810889</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1694675810889</updated>
+    </task>
+    <task id="LOCAL-00114" summary="예외 처리">
+      <option name="closed" value="true" />
+      <created>1694675816440</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1694675816440</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,7 +619,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="api" />
     <MESSAGE value="람다식" />
     <MESSAGE value="삭제" />
     <MESSAGE value="제네릭" />
@@ -641,7 +643,8 @@
     <MESSAGE value="평균구하기" />
     <MESSAGE value="collect 사용법" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="예외 처리" />
+    <option name="LAST_COMMIT_MESSAGE" value="예외 처리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

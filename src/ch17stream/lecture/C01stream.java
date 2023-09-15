@@ -12,6 +12,8 @@ public class C01stream {
         }
 
         // stream
+        // 물처럼 흘러간다 해서 stream
+        // 한번 지나간 데이터는 못 받는다
         Stream<String> stream = list.stream();
 
         // 메소드
