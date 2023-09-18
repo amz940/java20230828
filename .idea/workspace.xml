@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="IO 사용법 및 예제" />
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="IO 사용법">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch14thread/lecture/C11concurrency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch14thread/lecture/C11concurrency.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,13 +103,13 @@
       <recent name="ch99reetCode.no287" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C21copy">
-    <configuration name="C18filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C18filter" />
+  <component name="RunManager" selected="Application.C11concurrency">
+    <configuration name="C02thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C02thread" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18IO.lecture.*" />
+          <option name="PATTERN" value="ch14thread.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C19filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C19filter" />
+    <configuration name="C09join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C09join" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18IO.lecture.*" />
+          <option name="PATTERN" value="ch14thread.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C20bufferd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C20bufferd" />
+    <configuration name="C10concurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C10concurrency" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18IO.lecture.*" />
+          <option name="PATTERN" value="ch14thread.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C21copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18IO.lecture.C21copy" />
+    <configuration name="C11concurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C11concurrency" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18IO.lecture.*" />
+          <option name="PATTERN" value="ch14thread.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterConvertStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch18IO.book.sec06.CharacterConvertStreamExample" />
+    <configuration name="JoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.book.sec5.exam2.JoinExample" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch18IO.book.sec06.*" />
+          <option name="PATTERN" value="ch14thread.book.sec5.exam2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C21copy" />
-        <item itemvalue="Application.C20bufferd" />
-        <item itemvalue="Application.CharacterConvertStreamExample" />
-        <item itemvalue="Application.C19filter" />
-        <item itemvalue="Application.C18filter" />
+        <item itemvalue="Application.C11concurrency" />
+        <item itemvalue="Application.C10concurrency" />
+        <item itemvalue="Application.JoinExample" />
+        <item itemvalue="Application.C09join" />
+        <item itemvalue="Application.C02thread" />
       </list>
     </recent_temporary>
   </component>
@@ -204,23 +207,8 @@
       <workItem from="1694563031540" duration="24522000" />
       <workItem from="1694649477020" duration="26556000" />
       <workItem from="1694735158958" duration="11886000" />
-      <workItem from="1694748112303" duration="11592000" />
-    </task>
-    <task id="LOCAL-00068" summary="substring">
-      <option name="closed" value="true" />
-      <created>1693900218431</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1693900218431</updated>
-    </task>
-    <task id="LOCAL-00069" summary="charAt()">
-      <option name="closed" value="true" />
-      <created>1693900228129</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1693900228129</updated>
+      <workItem from="1694748112303" duration="14084000" />
+      <workItem from="1694995270640" duration="20047000" />
     </task>
     <task id="LOCAL-00070" summary="indexOf">
       <option name="closed" value="true" />
@@ -598,7 +586,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694764438252</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="와일문 쓰는 이유">
+      <option name="closed" value="true" />
+      <created>1694766173936</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1694766173936</updated>
+    </task>
+    <task id="LOCAL-00118" summary="IO 사용법">
+      <option name="closed" value="true" />
+      <created>1695016358429</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1695016358429</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,8 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="제네릭" />
-    <MESSAGE value="wildcard 이란" />
     <MESSAGE value="제네릭 코드" />
     <MESSAGE value="콜렉션" />
     <MESSAGE value="이중 list" />
@@ -641,7 +643,9 @@
     <MESSAGE value="예외 처리" />
     <MESSAGE value="스트림" />
     <MESSAGE value="IO 사용법 및 예제" />
-    <option name="LAST_COMMIT_MESSAGE" value="IO 사용법 및 예제" />
+    <MESSAGE value="와일문 쓰는 이유" />
+    <MESSAGE value="IO 사용법" />
+    <option name="LAST_COMMIT_MESSAGE" value="IO 사용법" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
