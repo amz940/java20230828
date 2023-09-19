@@ -7,6 +7,7 @@ import java.net.Socket;
 
 public class C1client {
     public static void main(String[] args) {
+        // 항상 server가 먼저 열리고 client가 접속해야 한다.
         try {
             Socket socket = new Socket("172.30.1.92", 3000); // 주소번호, 포트번호
             Writer writer = new OutputStreamWriter(socket.getOutputStream());
