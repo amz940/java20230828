@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="내부 list">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="set 예제">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +102,7 @@
       <recent name="ch99reetCode.no287" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetRandom">
+  <component name="RunManager" selected="Application.C14synchronized">
     <configuration name="C05nestedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C05nestedList" />
       <module name="java20230828" />
@@ -116,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C10concurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C10concurrency" />
+    <configuration name="C12atomic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C12atomic" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
@@ -129,25 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C11concurrency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C11concurrency" />
+    <configuration name="C14synchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C14synchronized" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch14thread.lecture.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14thread.book.sec5.exam2.JoinExample" />
-      <module name="java20230828" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch14thread.book.sec5.exam2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,13 +155,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VectorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14thread.book.sec2.exam2.VectorExample" />
+      <module name="java20230828" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch14thread.book.sec2.exam2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C14synchronized" />
+        <item itemvalue="Application.VectorExample" />
+        <item itemvalue="Application.C12atomic" />
         <item itemvalue="Application.SetRandom" />
         <item itemvalue="Application.C05nestedList" />
-        <item itemvalue="Application.C11concurrency" />
-        <item itemvalue="Application.C10concurrency" />
-        <item itemvalue="Application.JoinExample" />
       </list>
     </recent_temporary>
   </component>
@@ -207,15 +207,8 @@
       <workItem from="1694649477020" duration="26556000" />
       <workItem from="1694735158958" duration="11886000" />
       <workItem from="1694748112303" duration="14084000" />
-      <workItem from="1694995270640" duration="22332000" />
-    </task>
-    <task id="LOCAL-00072" summary="replace">
-      <option name="closed" value="true" />
-      <created>1693961584259</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1693961584259</updated>
+      <workItem from="1694995270640" duration="22558000" />
+      <workItem from="1695080923476" duration="5260000" />
     </task>
     <task id="LOCAL-00073" summary="replaceAll">
       <option name="closed" value="true" />
@@ -601,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695025930602</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="set 예제">
+      <option name="closed" value="true" />
+      <created>1695026938166</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1695026938166</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -619,7 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="이중 list" />
     <MESSAGE value="학원에서 공부한것들" />
     <MESSAGE value="list" />
     <MESSAGE value="set 이란" />
@@ -644,7 +644,8 @@
     <MESSAGE value="IO 사용법" />
     <MESSAGE value="멀티 thread" />
     <MESSAGE value="내부 list" />
-    <option name="LAST_COMMIT_MESSAGE" value="내부 list" />
+    <MESSAGE value="set 예제" />
+    <option name="LAST_COMMIT_MESSAGE" value="set 예제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
