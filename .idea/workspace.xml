@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="set 예제">
+    <list default="true" id="339bc31a-55c1-4b40-8217-f2a40ee9f34f" name="Changes" comment="쓰레드">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +102,13 @@
       <recent name="ch99reetCode.no287" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C14synchronized">
-    <configuration name="C05nestedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15collection.lecture.C05nestedList" />
+  <component name="RunManager" selected="Application.C5client">
+    <configuration name="C1client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19networkIO.lecture.C1client" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15collection.lecture.*" />
+          <option name="PATTERN" value="ch19networkIO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C12atomic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C12atomic" />
+    <configuration name="C3client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19networkIO.lecture.C3client" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14thread.lecture.*" />
+          <option name="PATTERN" value="ch19networkIO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C14synchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14thread.lecture.C14synchronized" />
+    <configuration name="C4server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19networkIO.lecture.C4server" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14thread.lecture.*" />
+          <option name="PATTERN" value="ch19networkIO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch98internetExample.SetRandom" />
+    <configuration name="C5client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19networkIO.lecture.C5client" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch98internetExample.*" />
+          <option name="PATTERN" value="ch19networkIO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14thread.book.sec2.exam2.VectorExample" />
+    <configuration name="C6server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch19networkIO.lecture.C6server" />
       <module name="java20230828" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14thread.book.sec2.exam2.*" />
+          <option name="PATTERN" value="ch19networkIO.lecture.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C14synchronized" />
-        <item itemvalue="Application.VectorExample" />
-        <item itemvalue="Application.C12atomic" />
-        <item itemvalue="Application.SetRandom" />
-        <item itemvalue="Application.C05nestedList" />
+        <item itemvalue="Application.C5client" />
+        <item itemvalue="Application.C6server" />
+        <item itemvalue="Application.C3client" />
+        <item itemvalue="Application.C4server" />
+        <item itemvalue="Application.C1client" />
       </list>
     </recent_temporary>
   </component>
@@ -208,15 +208,7 @@
       <workItem from="1694735158958" duration="11886000" />
       <workItem from="1694748112303" duration="14084000" />
       <workItem from="1694995270640" duration="22558000" />
-      <workItem from="1695080923476" duration="5260000" />
-    </task>
-    <task id="LOCAL-00073" summary="replaceAll">
-      <option name="closed" value="true" />
-      <created>1693961589292</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1693961589292</updated>
+      <workItem from="1695080923476" duration="11874000" />
     </task>
     <task id="LOCAL-00074" summary="regex">
       <option name="closed" value="true" />
@@ -602,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695026938166</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="쓰레드">
+      <option name="closed" value="true" />
+      <created>1695086736557</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1695086736557</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +620,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="학원에서 공부한것들" />
     <MESSAGE value="list" />
     <MESSAGE value="set 이란" />
     <MESSAGE value="list를 활용한 문제 풀이&#10;존나 어려움 꼭 나중에 다시 해볼껏" />
@@ -645,7 +644,8 @@
     <MESSAGE value="멀티 thread" />
     <MESSAGE value="내부 list" />
     <MESSAGE value="set 예제" />
-    <option name="LAST_COMMIT_MESSAGE" value="set 예제" />
+    <MESSAGE value="쓰레드" />
+    <option name="LAST_COMMIT_MESSAGE" value="쓰레드" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
